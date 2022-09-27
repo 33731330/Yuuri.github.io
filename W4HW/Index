@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>I am normal</p>
+<p style="color:red;text-align:center">你好</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:20px;">I am big</p>
+<ul>
+    <li> 自我介紹 
+    <ul>
+    <li> 偉倫 </li>
+    <li> 台灣人 </li>
+    </ul> 
+    </li>
+</body>
+</html>
